@@ -1,3 +1,9 @@
+<style>
+ol ol, ul ol {
+    list-style-type: decimal;
+}
+</style>
+
 # Anotações de C++
 
 Este é um repositório de anotações dos meus estudos de C++.
